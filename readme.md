@@ -5,3 +5,6 @@ Working example can be found at [agentic-workflow-poc](https://github.com/sinann
 
 # References
 - [gh aw docs](https://github.github.com/gh-aw/)
+
+# Repo Qr Code
+<img src="./qrcode_github.com.png" alt="repo qr code" width="500" height="600">
